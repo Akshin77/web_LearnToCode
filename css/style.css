@@ -120,8 +120,13 @@ body {
 
 .main_form p kbd {
   background: red;
+  cursor: pointer;
 }
 
 .mybtn1 span {
   opacity: 0.7;
+}
+
+.form-group .myinp{
+  border: 2px solid #FF7979;
 }
